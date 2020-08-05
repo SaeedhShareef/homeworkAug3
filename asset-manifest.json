@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homeworkAug3/static/css/main.cf16eb8d.chunk.css",
+    "main.js": "/homeworkAug3/static/js/main.117d5a9c.chunk.js",
+    "main.js.map": "/homeworkAug3/static/js/main.117d5a9c.chunk.js.map",
+    "runtime-main.js": "/homeworkAug3/static/js/runtime-main.b681691e.js",
+    "runtime-main.js.map": "/homeworkAug3/static/js/runtime-main.b681691e.js.map",
+    "static/js/2.7ec3d40f.chunk.js": "/homeworkAug3/static/js/2.7ec3d40f.chunk.js",
+    "static/js/2.7ec3d40f.chunk.js.map": "/homeworkAug3/static/js/2.7ec3d40f.chunk.js.map",
+    "index.html": "/homeworkAug3/index.html",
+    "precache-manifest.dd11da6491937fcd391b8a5907610e50.js": "/homeworkAug3/precache-manifest.dd11da6491937fcd391b8a5907610e50.js",
+    "service-worker.js": "/homeworkAug3/service-worker.js",
+    "static/css/main.cf16eb8d.chunk.css.map": "/homeworkAug3/static/css/main.cf16eb8d.chunk.css.map",
+    "static/js/2.7ec3d40f.chunk.js.LICENSE.txt": "/homeworkAug3/static/js/2.7ec3d40f.chunk.js.LICENSE.txt",
+    "static/media/pokeball.png": "/homeworkAug3/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b681691e.js",
+    "static/js/2.7ec3d40f.chunk.js",
+    "static/css/main.cf16eb8d.chunk.css",
+    "static/js/main.117d5a9c.chunk.js"
+  ]
+}
